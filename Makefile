@@ -1,2 +1,2 @@
 all:
-	@gcc main.c -o infinite-multiplication
+	@gcc main.c -o infinite-multiplicator
